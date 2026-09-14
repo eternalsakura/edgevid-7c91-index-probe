@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://eternalsakura.github.io/edgevid-7c91-index-probe/sitemap.xml
